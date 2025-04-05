@@ -1,3 +1,4 @@
 Hello word
 first commit-зміни на github.com-ви бачите де саме відбуваються зміни?
 second commit-зміни на github.com
+Third commit- зміни в txt
