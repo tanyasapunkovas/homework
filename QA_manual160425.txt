@@ -5,3 +5,4 @@ Third commit- зміни в txt
 Four commit ви можете побачитися працюю через термінал чи через github desctop?
 five commit в коммітах відображається,де саме зміненний файл?
 Six зміна
+Next change
