@@ -7,3 +7,4 @@ five commit в коммітах відображається,де саме зм�
 Six зміна
 Next change
 Hello world
+change github.com
